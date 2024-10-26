@@ -1,0 +1,9 @@
+akun admin
+username : admin123
+password : admin123
+
+akun users 
+username : amrylil
+password : ulil0811
+
+buka terlebih dahulu file mysql
